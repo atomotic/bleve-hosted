@@ -8,6 +8,7 @@ import (
 
 	"github.com/blevesearch/bleve"
 	bleveHttp "github.com/blevesearch/bleve/http"
+	_ "github.com/blevesearch/bleve/config"
 	"github.com/gorilla/mux"
 )
 
